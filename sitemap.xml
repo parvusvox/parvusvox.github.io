@@ -3,35 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>www.example.com/</loc>
+    <loc>parvusvox.github.io/</loc>
     <lastmod>2021-02-25T12:06:20-05:00</lastmod>
   </url>
   
   <url>
-    <loc>www.example.com/search/</loc>
+    <loc>parvusvox.github.io/search/</loc>
     <lastmod>2021-02-25T12:06:20-05:00</lastmod>
   </url>
   
   <url>
-    <loc>www.example.com/posts/first-post/</loc>
+    <loc>parvusvox.github.io/posts/first-post/</loc>
     <lastmod>2021-02-25T11:42:48-05:00</lastmod>
   </url>
   
   <url>
-    <loc>www.example.com/posts/</loc>
+    <loc>parvusvox.github.io/posts/</loc>
     <lastmod>2021-02-25T11:42:48-05:00</lastmod>
   </url>
   
   <url>
-    <loc>www.example.com/categories/</loc>
+    <loc>parvusvox.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>www.example.com/series/</loc>
+    <loc>parvusvox.github.io/series/</loc>
   </url>
   
   <url>
-    <loc>www.example.com/tags/</loc>
+    <loc>parvusvox.github.io/tags/</loc>
   </url>
   
 </urlset>

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>[DEV0]</title>
-    <link>www.example.com/</link>
+    <link>parvusvox.github.io/</link>
     <description>Recent content on [DEV0]</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 25 Feb 2021 12:06:20 -0500</lastBuildDate>
     
-	<atom:link href="www.example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="parvusvox.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Search</title>
-      <link>www.example.com/search/</link>
+      <link>parvusvox.github.io/search/</link>
       <pubDate>Thu, 25 Feb 2021 12:06:20 -0500</pubDate>
       
-      <guid>www.example.com/search/</guid>
+      <guid>parvusvox.github.io/search/</guid>
       <description>search</description>
     </item>
     
     <item>
       <title>First Post</title>
-      <link>www.example.com/posts/first-post/</link>
+      <link>parvusvox.github.io/posts/first-post/</link>
       <pubDate>Thu, 25 Feb 2021 11:42:48 -0500</pubDate>
       
-      <guid>www.example.com/posts/first-post/</guid>
+      <guid>parvusvox.github.io/posts/first-post/</guid>
       <description>socialmedia Social Media backend for DALI lab written in glorious Golang.
 Installation You need golang and all necessary dependencies installed. Clone this repo
 git clone https://github.com/parvusvox/socialmedia.git cd socialmedia add database connection string in &amp;ldquo;localenv&amp;rdquo; then set environmental variables

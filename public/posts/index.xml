@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on [DEV0]</title>
+    <link>www.example.com/posts/</link>
+    <description>Recent content in Posts on [DEV0]</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 25 Feb 2021 11:42:48 -0500</lastBuildDate>
+    
+	<atom:link href="www.example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>www.example.com/posts/first-post/</link>
+      <pubDate>Thu, 25 Feb 2021 11:42:48 -0500</pubDate>
+      
+      <guid>www.example.com/posts/first-post/</guid>
+      <description>socialmedia Social Media backend for DALI lab written in glorious Golang.
+Installation You need golang and all necessary dependencies installed. Clone this repo
+git clone https://github.com/parvusvox/socialmedia.git cd socialmedia add database connection string in &amp;ldquo;localenv&amp;rdquo; then set environmental variables
+source localenv Run this project
+go run server.go &amp;hellip; or with air
+air . Upload data to database navigate to the pytools directory and run script
+source localenv cd pytools python3 upload.py Upload to heroku This repo comes with a Dockerfile you can use with heroku, just replace the with your app name on heroku</description>
+    </item>
+    
+  </channel>
+</rss>

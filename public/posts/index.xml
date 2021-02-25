@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on [DEV0]</title>
-    <link>parvusvox.github.io/posts/</link>
+    <link>https://blog.ianmkim.com/posts/</link>
     <description>Recent content in Posts on [DEV0]</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 25 Feb 2021 11:42:48 -0500</lastBuildDate>
     
-	<atom:link href="parvusvox.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ianmkim.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Post</title>
-      <link>parvusvox.github.io/posts/first-post/</link>
+      <link>https://blog.ianmkim.com/posts/first-post/</link>
       <pubDate>Thu, 25 Feb 2021 11:42:48 -0500</pubDate>
       
-      <guid>parvusvox.github.io/posts/first-post/</guid>
+      <guid>https://blog.ianmkim.com/posts/first-post/</guid>
       <description>socialmedia Social Media backend for DALI lab written in glorious Golang.
 Installation You need golang and all necessary dependencies installed. Clone this repo
 git clone https://github.com/parvusvox/socialmedia.git cd socialmedia add database connection string in &amp;ldquo;localenv&amp;rdquo; then set environmental variables

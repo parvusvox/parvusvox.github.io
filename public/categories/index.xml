@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on [DEV0]</title>
-    <link>parvusvox.github.io/categories/</link>
+    <link>https://blog.ianmkim.com/categories/</link>
     <description>Recent content in Categories on [DEV0]</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="parvusvox.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ianmkim.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

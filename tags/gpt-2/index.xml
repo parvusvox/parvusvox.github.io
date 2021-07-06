@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GPT-2 on The Stumbling Block</title>
+    <link>https://blog.ianmkim.com/tags/gpt-2/</link>
+    <description>Recent content in GPT-2 on The Stumbling Block</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 06 Jul 2021 22:54:03 +0900</lastBuildDate>
+    
+	<atom:link href="https://blog.ianmkim.com/tags/gpt-2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cosmos</title>
+      <link>https://blog.ianmkim.com/posts/cosmos/</link>
+      <pubDate>Tue, 06 Jul 2021 22:54:03 +0900</pubDate>
+      
+      <guid>https://blog.ianmkim.com/posts/cosmos/</guid>
+      <description>CEO &amp;amp; Co-Founder A web platform that uses SOTA NLP and ML techniques to help debaters compile evidence and write cases.
+Motivation As avid debaters in Highschool, my partner and I were tired of seeing news and statistics misused, misquoted, and mistreated. Especially among the beginner population, the inability to correctly and fairly interpret evidence without commiting logical fallacies often derail the debate.
+When my partner and I attended the 2018 Harvard Debate summer program, we realized that this wasn&amp;rsquo;t just a problem for poorly funded debate programs in the south but rather a problem all around the country.</description>
+    </item>
+    
+    <item>
+      <title>Twitter Misinformation Research</title>
+      <link>https://blog.ianmkim.com/posts/twitter_misinformation/</link>
+      <pubDate>Tue, 06 Jul 2021 22:49:07 +0900</pubDate>
+      
+      <guid>https://blog.ianmkim.com/posts/twitter_misinformation/</guid>
+      <description>Researcher A research project dedicated to differentiating between state-backed misinformation campaigns on Twitter with mentorship from Ariel Herbert Voss, PhD Harvard, fellow at Berkman Klein Center.
+Project Outline We are investigating NLP methods for fighting misinformation campaigns on public forums and social media platforms like Twitter. The basic premise is to differentiate between state backed misinformation campaigns and regular tweets
+Currently we are mapping country origin of tweet based on a bert embedding similarity metric to existing Twitter misinformation database.</description>
+    </item>
+    
+  </channel>
+</rss>

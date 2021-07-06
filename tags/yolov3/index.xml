@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>YOLOV3 on The Stumbling Block</title>
+    <link>https://blog.ianmkim.com/tags/yolov3/</link>
+    <description>Recent content in YOLOV3 on The Stumbling Block</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 06 Jul 2021 22:56:14 +0900</lastBuildDate>
+    
+	<atom:link href="https://blog.ianmkim.com/tags/yolov3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fir Tree Stats</title>
+      <link>https://blog.ianmkim.com/posts/firtree_stats/</link>
+      <pubDate>Tue, 06 Jul 2021 22:56:14 +0900</pubDate>
+      
+      <guid>https://blog.ianmkim.com/posts/firtree_stats/</guid>
+      <description>Developer A computer vision system &amp;amp; web frontend that utilizes fast object detection algorithms on single-board computers and time series forecasting to predict &amp;amp; display wait times at the school grill
+Motivation The Fir Tree is a school grill and is oftentimes very crowded and lines regularly reach the exit doors. To alleviate long lines and pressure from workers, I created Fir Tree Stats, a live-updating dashboard that tells you exactly how many people are waiting in the line currently, how long it will take for you to get your food, and how many people were inside the restaurant.</description>
+    </item>
+    
+  </channel>
+</rss>

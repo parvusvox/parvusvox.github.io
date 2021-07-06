@@ -5,9 +5,19 @@
     <link>https://blog.ianmkim.com/categories/</link>
     <description>Recent content in Categories on The Stumbling Block</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 06 Jul 2021 23:04:42 +0900</lastBuildDate>
     
 	<atom:link href="https://blog.ianmkim.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>projects</title>
+      <link>https://blog.ianmkim.com/categories/projects/</link>
+      <pubDate>Tue, 06 Jul 2021 23:04:42 +0900</pubDate>
+      
+      <guid>https://blog.ianmkim.com/categories/projects/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

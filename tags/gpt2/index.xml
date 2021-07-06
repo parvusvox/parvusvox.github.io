@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GPT2 on The Stumbling Block</title>
+    <link>https://blog.ianmkim.com/tags/gpt2/</link>
+    <description>Recent content in GPT2 on The Stumbling Block</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 06 Jul 2021 23:02:37 +0900</lastBuildDate>
+    
+	<atom:link href="https://blog.ianmkim.com/tags/gpt2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jesus and John</title>
+      <link>https://blog.ianmkim.com/posts/jesus_and_john/</link>
+      <pubDate>Tue, 06 Jul 2021 23:02:37 +0900</pubDate>
+      
+      <guid>https://blog.ianmkim.com/posts/jesus_and_john/</guid>
+      <description>Developer Ever wanted to read Jesus and John&amp;rsquo;s (NSFW) fanfiction? Me neither. Welp, either way I made a few shot GPT-2 1.5B bot write a bunch and put it on a website. Check it out if you want to suffer.
+https://x3bible.herokuapp.com</description>
+    </item>
+    
+  </channel>
+</rss>

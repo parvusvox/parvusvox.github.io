@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SQL on The Stumbling Block</title>
+    <link>https://blog.ianmkim.com/tags/sql/</link>
+    <description>Recent content in SQL on The Stumbling Block</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 06 Jul 2021 22:57:21 +0900</lastBuildDate>
+    
+	<atom:link href="https://blog.ianmkim.com/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fir Tree Web</title>
+      <link>https://blog.ianmkim.com/posts/firtree_web/</link>
+      <pubDate>Tue, 06 Jul 2021 22:57:21 +0900</pubDate>
+      
+      <guid>https://blog.ianmkim.com/posts/firtree_web/</guid>
+      <description>Co-Founder &amp;amp; Developer Online store for Woodberry Forest School&amp;rsquo;s campus grill. 80% adoption rate by the first three days of public beta test. Alleviated worker load through preordering.</description>
+    </item>
+    
+  </channel>
+</rss>

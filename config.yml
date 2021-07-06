@@ -1,6 +1,6 @@
 baseUrl: "https://blog.ianmkim.com"
-title: "[DEV0]"
-paginate: 5
+title: "The Stumbling Block"
+paginate: 10
 theme: papermod
 
 enableInlineShortcodes: true
@@ -35,8 +35,8 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "The blog of a very incompetent dev"
-    author: DEV0
+    description: "Blog and Sketchpad"
+    author: Ian Kim
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: auto
@@ -52,10 +52,9 @@ params:
     # images: ["papermod-cover.png"]
 
     homeInfoParams:
-        Title: "[DEV0]'s Blog"
+        Title: "The Stumbling Block &#129717;"
         Content: >
-            Welcome to the blog of perhaps the most incompetent developer in America. Follow his shenanigans and adventures.
-
+            A log of past mistakes and a sketchpad for future mistakes.
     socialIcons:
       - name: instagram
         url: "https://www.instagram.com/undefined_string/"

@@ -3,23 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.ianmkim.com/</loc>
-    <lastmod>2021-02-25T12:06:20-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://blog.ianmkim.com/search/</loc>
     <lastmod>2021-02-25T12:06:20-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.ianmkim.com/posts/first-post/</loc>
-    <lastmod>2021-02-25T11:42:48-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.ianmkim.com/posts/</loc>
-    <lastmod>2021-02-25T11:42:48-05:00</lastmod>
+    <loc>https://blog.ianmkim.com/</loc>
   </url>
   
   <url>

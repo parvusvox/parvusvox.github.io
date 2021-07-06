@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javascript on The Stumbling Block</title>
+    <link>https://blog.ianmkim.com/tags/javascript/</link>
+    <description>Recent content in Javascript on The Stumbling Block</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 06 Jul 2021 23:04:42 +0900</lastBuildDate>
+    
+	<atom:link href="https://blog.ianmkim.com/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TigerFinder</title>
+      <link>https://blog.ianmkim.com/posts/tigerfinder/</link>
+      <pubDate>Tue, 06 Jul 2021 23:04:42 +0900</pubDate>
+      
+      <guid>https://blog.ianmkim.com/posts/tigerfinder/</guid>
+      <description>Founder &amp;amp; Developer Web platform that maps and tracks the last reported location of Woodberry Alumni. Requested by the Woodberry Communications Department.</description>
+    </item>
+    
+  </channel>
+</rss>

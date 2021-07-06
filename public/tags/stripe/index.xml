@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>STRIPE on The Stumbling Block</title>
+    <link>https://blog.ianmkim.com/tags/stripe/</link>
+    <description>Recent content in STRIPE on The Stumbling Block</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 06 Jul 2021 23:03:56 +0900</lastBuildDate>
+    
+	<atom:link href="https://blog.ianmkim.com/tags/stripe/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deep Chao</title>
+      <link>https://blog.ianmkim.com/posts/deep_chaos/</link>
+      <pubDate>Tue, 06 Jul 2021 23:03:56 +0900</pubDate>
+      
+      <guid>https://blog.ianmkim.com/posts/deep_chaos/</guid>
+      <description>Co-founder, Developer Deep Chaos is an art &amp;amp; apparel store that promotes an exclusive group of talented young artists.
+Deep Chaos carries an exclusive group of talented young artists to catapult their career and their work to the broader market through lowering the barrier of entry to marketing and shipping.</description>
+    </item>
+    
+  </channel>
+</rss>

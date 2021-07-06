@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BERT on The Stumbling Block</title>
+    <link>https://blog.ianmkim.com/tags/bert/</link>
+    <description>Recent content in BERT on The Stumbling Block</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 06 Jul 2021 22:49:07 +0900</lastBuildDate>
+    
+	<atom:link href="https://blog.ianmkim.com/tags/bert/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Twitter Misinformation Research</title>
+      <link>https://blog.ianmkim.com/posts/twitter_misinformation/</link>
+      <pubDate>Tue, 06 Jul 2021 22:49:07 +0900</pubDate>
+      
+      <guid>https://blog.ianmkim.com/posts/twitter_misinformation/</guid>
+      <description>Researcher A research project dedicated to differentiating between state-backed misinformation campaigns on Twitter with mentorship from Ariel Herbert Voss, PhD Harvard, fellow at Berkman Klein Center.
+Project Outline We are investigating NLP methods for fighting misinformation campaigns on public forums and social media platforms like Twitter. The basic premise is to differentiate between state backed misinformation campaigns and regular tweets
+Currently we are mapping country origin of tweet based on a bert embedding similarity metric to existing Twitter misinformation database.</description>
+    </item>
+    
+  </channel>
+</rss>

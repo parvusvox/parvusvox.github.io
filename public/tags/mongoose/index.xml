@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mongoose on The Stumbling Block</title>
+    <link>https://blog.ianmkim.com/tags/mongoose/</link>
+    <description>Recent content in Mongoose on The Stumbling Block</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 06 Jul 2021 22:41:52 +0900</lastBuildDate>
+    
+	<atom:link href="https://blog.ianmkim.com/tags/mongoose/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cognality VR LLC</title>
+      <link>https://blog.ianmkim.com/posts/cognality_vr/</link>
+      <pubDate>Tue, 06 Jul 2021 22:41:52 +0900</pubDate>
+      
+      <guid>https://blog.ianmkim.com/posts/cognality_vr/</guid>
+      <description>CTO &amp;amp; Co-founder Cognality is a web based virtual reality platform that helps autistic children mitigate the effects of meltdowns and overloads. Cognality is currently collaborating with Dr. Boyd of Chapman University to conduct an academic study on product effectiveness.
+About the Issue People with autism are usually highly sensitive to their environments. This is different for people on the spectrum, but in general, autistic people have unusually sensitive &amp;ldquo;sensory&amp;rdquo; systems.</description>
+    </item>
+    
+  </channel>
+</rss>

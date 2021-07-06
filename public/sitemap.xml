@@ -3,24 +3,286 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.ianmkim.com/categories/</loc>
+    <lastmod>2021-07-06T23:04:42+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/tags/javascript/</loc>
+    <lastmod>2021-07-06T23:04:42+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/posts/</loc>
+    <lastmod>2021-07-06T23:04:42+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/categories/projects/</loc>
+    <lastmod>2021-07-06T23:04:42+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/tags/python/</loc>
+    <lastmod>2021-07-06T23:04:42+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/tags/</loc>
+    <lastmod>2021-07-06T23:04:42+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/</loc>
+    <lastmod>2021-07-06T23:04:42+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/posts/tigerfinder/</loc>
+    <lastmod>2021-07-06T23:04:42+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/posts/deep_chaos/</loc>
+    <lastmod>2021-07-06T23:03:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/tags/flask/</loc>
+    <lastmod>2021-07-06T23:03:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/tags/stripe/</loc>
+    <lastmod>2021-07-06T23:03:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/tags/c&#43;&#43;/</loc>
+    <lastmod>2021-07-06T23:02:37+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/tags/gpt2/</loc>
+    <lastmod>2021-07-06T23:02:37+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/posts/jesus_and_john/</loc>
+    <lastmod>2021-07-06T23:02:37+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/tags/nlp/</loc>
+    <lastmod>2021-07-06T23:02:37+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/tags/pytorch/</loc>
+    <lastmod>2021-07-06T23:02:37+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/tags/postgresql/</loc>
+    <lastmod>2021-07-06T23:01:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/posts/sound_db/</loc>
+    <lastmod>2021-07-06T23:01:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/tags/c#/</loc>
+    <lastmod>2021-07-06T22:59:23+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/tags/procedural-generation/</loc>
+    <lastmod>2021-07-06T22:59:23+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/posts/stupid_planets/</loc>
+    <lastmod>2021-07-06T22:59:23+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/tags/unity/</loc>
+    <lastmod>2021-07-06T22:59:23+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/tags/api-development/</loc>
+    <lastmod>2021-07-06T22:58:38+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/tags/computer-vision/</loc>
+    <lastmod>2021-07-06T22:58:38+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/posts/facetagger/</loc>
+    <lastmod>2021-07-06T22:58:38+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/tags/facial-recognition/</loc>
+    <lastmod>2021-07-06T22:58:38+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/tags/ml/</loc>
+    <lastmod>2021-07-06T22:58:38+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/posts/commodity/</loc>
+    <lastmod>2021-07-06T22:58:03+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/tags/keras&#43;tensorflow/</loc>
+    <lastmod>2021-07-06T22:58:03+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/tags/lstm/</loc>
+    <lastmod>2021-07-06T22:58:03+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/tags/rnn/</loc>
+    <lastmod>2021-07-06T22:58:03+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/tags/asp.net/</loc>
+    <lastmod>2021-07-06T22:57:21+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/posts/firtree_web/</loc>
+    <lastmod>2021-07-06T22:57:21+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/tags/sql/</loc>
+    <lastmod>2021-07-06T22:57:21+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/tags/dlib/</loc>
+    <lastmod>2021-07-06T22:56:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/posts/firtree_stats/</loc>
+    <lastmod>2021-07-06T22:56:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/tags/websockets/</loc>
+    <lastmod>2021-07-06T22:56:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/tags/yolov3/</loc>
+    <lastmod>2021-07-06T22:56:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/posts/cosmos/</loc>
+    <lastmod>2021-07-06T22:54:03+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/tags/gpt-2/</loc>
+    <lastmod>2021-07-06T22:54:03+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/tags/api/</loc>
+    <lastmod>2021-07-06T22:52:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/tags/engineering/</loc>
+    <lastmod>2021-07-06T22:52:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/tags/hardware/</loc>
+    <lastmod>2021-07-06T22:52:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/posts/lebench/</loc>
+    <lastmod>2021-07-06T22:52:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/posts/country_fried_steak/</loc>
+    <lastmod>2021-07-06T22:50:34+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/tags/nodejs/</loc>
+    <lastmod>2021-07-06T22:50:34+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/tags/bert/</loc>
+    <lastmod>2021-07-06T22:49:07+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/posts/twitter_misinformation/</loc>
+    <lastmod>2021-07-06T22:49:07+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/tags/xlnet/</loc>
+    <lastmod>2021-07-06T22:49:07+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/tags/aframe/</loc>
+    <lastmod>2021-07-06T22:41:52+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/posts/cognality_vr/</loc>
+    <lastmod>2021-07-06T22:41:52+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/tags/mongodb/</loc>
+    <lastmod>2021-07-06T22:41:52+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/tags/mongoose/</loc>
+    <lastmod>2021-07-06T22:41:52+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ianmkim.com/tags/webxr/</loc>
+    <lastmod>2021-07-06T22:41:52+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.ianmkim.com/search/</loc>
     <lastmod>2021-02-25T12:06:20-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.ianmkim.com/categories/</loc>
+    <loc>https://blog.ianmkim.com/tags/html/css/</loc>
   </url>
   
   <url>
     <loc>https://blog.ianmkim.com/series/</loc>
-  </url>
-  
-  <url>
-    <loc>https://blog.ianmkim.com/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://blog.ianmkim.com/</loc>
   </url>
   
 </urlset>

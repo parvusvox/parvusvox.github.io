@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PostgreSQL on The Stumbling Block</title>
+    <link>https://blog.ianmkim.com/tags/postgresql/</link>
+    <description>Recent content in PostgreSQL on The Stumbling Block</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 06 Jul 2021 23:01:56 +0900</lastBuildDate>
+    
+	<atom:link href="https://blog.ianmkim.com/tags/postgresql/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sound DB</title>
+      <link>https://blog.ianmkim.com/posts/sound_db/</link>
+      <pubDate>Tue, 06 Jul 2021 23:01:56 +0900</pubDate>
+      
+      <guid>https://blog.ianmkim.com/posts/sound_db/</guid>
+      <description>Developer A digitized database of Woodberry&amp;rsquo;s Drama Department&amp;rsquo;s music and sound effects collection.</description>
+    </item>
+    
+    <item>
+      <title>Cosmos</title>
+      <link>https://blog.ianmkim.com/posts/cosmos/</link>
+      <pubDate>Tue, 06 Jul 2021 22:54:03 +0900</pubDate>
+      
+      <guid>https://blog.ianmkim.com/posts/cosmos/</guid>
+      <description>CEO &amp;amp; Co-Founder A web platform that uses SOTA NLP and ML techniques to help debaters compile evidence and write cases.
+Motivation As avid debaters in Highschool, my partner and I were tired of seeing news and statistics misused, misquoted, and mistreated. Especially among the beginner population, the inability to correctly and fairly interpret evidence without commiting logical fallacies often derail the debate.
+When my partner and I attended the 2018 Harvard Debate summer program, we realized that this wasn&amp;rsquo;t just a problem for poorly funded debate programs in the south but rather a problem all around the country.</description>
+    </item>
+    
+    <item>
+      <title>Country Fried Steak</title>
+      <link>https://blog.ianmkim.com/posts/country_fried_steak/</link>
+      <pubDate>Tue, 06 Jul 2021 22:50:34 +0900</pubDate>
+      
+      <guid>https://blog.ianmkim.com/posts/country_fried_steak/</guid>
+      <description>Co-Founder A privacy &amp;amp; anonymity centric forum for open discussion for Woodberry Forest School
+Motivation Woodberry is a private all-boys boarding school in the south. In an environment like that, getting your voice heard can be a challenging task. You barely have to go through the first few paragraphs of Woodberry&amp;rsquo;s wikipedia entry to get the sense of strict hierarchical structures of the prefect system.
+In such environments, the voices of marginalized identities, views, and opinions are oppressed and dismissed purely by association to the individual who authors them.</description>
+    </item>
+    
+    <item>
+      <title>Twitter Misinformation Research</title>
+      <link>https://blog.ianmkim.com/posts/twitter_misinformation/</link>
+      <pubDate>Tue, 06 Jul 2021 22:49:07 +0900</pubDate>
+      
+      <guid>https://blog.ianmkim.com/posts/twitter_misinformation/</guid>
+      <description>Researcher A research project dedicated to differentiating between state-backed misinformation campaigns on Twitter with mentorship from Ariel Herbert Voss, PhD Harvard, fellow at Berkman Klein Center.
+Project Outline We are investigating NLP methods for fighting misinformation campaigns on public forums and social media platforms like Twitter. The basic premise is to differentiate between state backed misinformation campaigns and regular tweets
+Currently we are mapping country origin of tweet based on a bert embedding similarity metric to existing Twitter misinformation database.</description>
+    </item>
+    
+    <item>
+      <title>Cognality VR LLC</title>
+      <link>https://blog.ianmkim.com/posts/cognality_vr/</link>
+      <pubDate>Tue, 06 Jul 2021 22:41:52 +0900</pubDate>
+      
+      <guid>https://blog.ianmkim.com/posts/cognality_vr/</guid>
+      <description>CTO &amp;amp; Co-founder Cognality is a web based virtual reality platform that helps autistic children mitigate the effects of meltdowns and overloads. Cognality is currently collaborating with Dr. Boyd of Chapman University to conduct an academic study on product effectiveness.
+About the Issue People with autism are usually highly sensitive to their environments. This is different for people on the spectrum, but in general, autistic people have unusually sensitive &amp;ldquo;sensory&amp;rdquo; systems.</description>
+    </item>
+    
+  </channel>
+</rss>

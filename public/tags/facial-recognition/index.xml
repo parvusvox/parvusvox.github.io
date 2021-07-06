@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Facial Recognition on The Stumbling Block</title>
+    <link>https://blog.ianmkim.com/tags/facial-recognition/</link>
+    <description>Recent content in Facial Recognition on The Stumbling Block</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 06 Jul 2021 22:58:38 +0900</lastBuildDate>
+    
+	<atom:link href="https://blog.ianmkim.com/tags/facial-recognition/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Facetagger</title>
+      <link>https://blog.ianmkim.com/posts/facetagger/</link>
+      <pubDate>Tue, 06 Jul 2021 22:58:38 +0900</pubDate>
+      
+      <guid>https://blog.ianmkim.com/posts/facetagger/</guid>
+      <description>Developer An API &amp;amp; facial recognition system for Woodberry&amp;rsquo;s student that automatically tags relevant individuals in the school photo album instead of manual student tagging.
+Nobody likes manual labor This project originally started as a set piece for a production of George Orwell&amp;rsquo;s 1984 and quickly evolved into a face recognition system that automatically tagged various students in the school photo album.
+Before such system, the school would take volunteer workers to manually sift through hundreds of images to tag people.</description>
+    </item>
+    
+  </channel>
+</rss>

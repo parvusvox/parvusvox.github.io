@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C# on The Stumbling Block</title>
+    <link>https://blog.ianmkim.com/tags/c#/</link>
+    <description>Recent content in C# on The Stumbling Block</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 06 Jul 2021 22:59:23 +0900</lastBuildDate>
+    
+	<atom:link href="https://blog.ianmkim.com/tags/c#/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stupid Planets</title>
+      <link>https://blog.ianmkim.com/posts/stupid_planets/</link>
+      <pubDate>Tue, 06 Jul 2021 22:59:23 +0900</pubDate>
+      
+      <guid>https://blog.ianmkim.com/posts/stupid_planets/</guid>
+      <description>Developer Global Nominee for NASA&amp;rsquo;s Space Apps Challenge 2020. A colonization game that (semi) accurately simulates thermodynamic and physical properties of exo-planets and star systems.
+https://2019.spaceappschallenge.org/challenges/planets-near-and-far/build-planet-workshop/teams/quinn-the-buffalo/project
+Stupid planets aims to recreate a sandbox-like environment of procedural star systems and exoplanets. The aim of Stupid Planets is to provide an educational experience on the basic elements needed for life and colonization on exoplanets through scientific modelling, physically based orbital movement and loose modelling of chemical compositions and interactions.</description>
+    </item>
+    
+    <item>
+      <title>Fir Tree Web</title>
+      <link>https://blog.ianmkim.com/posts/firtree_web/</link>
+      <pubDate>Tue, 06 Jul 2021 22:57:21 +0900</pubDate>
+      
+      <guid>https://blog.ianmkim.com/posts/firtree_web/</guid>
+      <description>Co-Founder &amp;amp; Developer Online store for Woodberry Forest School&amp;rsquo;s campus grill. 80% adoption rate by the first three days of public beta test. Alleviated worker load through preordering.</description>
+    </item>
+    
+  </channel>
+</rss>

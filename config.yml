@@ -53,8 +53,7 @@ params:
 
     homeInfoParams:
         Title: "The Stumbling Block &#129717;"
-        Content: >
-            A log of past mistakes and a sketchpad for future mistakes.
+        Content: A log of past mistakes and a sketchpad for future mistakes.
     socialIcons:
       - name: instagram
         url: "https://www.instagram.com/undefined_string/"
